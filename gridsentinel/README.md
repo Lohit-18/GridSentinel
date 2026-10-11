@@ -8,7 +8,6 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![CI](https://github.com/Lohit-18/GridSentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/Lohit-18/GridSentinel/actions/workflows/ci.yml)
 [![Tests](https://img.shields.io/badge/tests-22_passing-brightgreen.svg)](tests/)
 [![Code style](https://img.shields.io/badge/scope-defensive_·_synthetic-success.svg)](ETHICS.md)
 [![Made with scikit-learn](https://img.shields.io/badge/ML-scikit--learn-f89939.svg)](https://scikit-learn.org/)
