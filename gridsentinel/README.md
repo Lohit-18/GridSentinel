@@ -11,7 +11,6 @@
 <p>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11%20|%203.12-3776ab.svg?logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://github.com/Lohit-18/GridSentinel/actions/workflows/ci.yml"><img src="https://github.com/Lohit-18/GridSentinel/actions/workflows/ci.yml/badge.svg" alt="CI"/></a>
 <img src="https://img.shields.io/badge/tests-22%20passing-brightgreen.svg" alt="Tests"/>
 <img src="https://img.shields.io/badge/coverage-core%20paths-success.svg" alt="Coverage"/>
 </p>
